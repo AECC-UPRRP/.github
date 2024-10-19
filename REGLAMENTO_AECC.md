@@ -9,10 +9,10 @@ Según las disposiciones del Artículo VI de la Constitución, se crea este regl
 **Sección 1\. Elegibilidad**
 
 A.	Será elegible cualquier estudiante del Recinto de Río Piedras de la   
-UPR que haya pasado o esté tomando el curso CCOM3030, o que tenga interés genuino en ciencia de cómputos y/o aplicaciones de la misma.
+UPR que haya pasado o esté tomando el curso de Introducción a las Ciencia de Cómputos (COM 3030), o que tenga interés genuino en Ciencia de Cómputos y/o aplicaciones de la misma.
 
 B.	El Comité de Información y Admisión (CIA) de la AECC se   
-encargará de medir la genuinidad del interés del estudiante, de no existir dicho comité se le encargará a la directiva de la AECC.
+encargará de medir la genuinidad del interés del estudiante, de no existir dicho comité se le encargará a la directiva de la AECC. Se medirá el interés por medio de las acciones profesionales de la persona eso siendo: aprendizaje autónomo, proyectos o conversaciones detalladas sobre el interés en la Ciencia de Cómputos.
 
 **Sección 2\. Ingreso**
 
@@ -23,27 +23,28 @@ B.	El comité (la directiva, si se da el caso previsto en la parte A de esta
 sección) examinará la solicitud y tendrá el derecho de rechazar la solicitud si no es considerado elegible de acuerdo a los siguientes criterios:
 
 a. Promedio Académico  
-b. Créditos  
+b. Créditosz (Estudiante a tiempo completo: 12 créditos o más)  
 c. Actitud o conducta indeseada  
 d. Historial de faltas de respeto.  
 e. Criterios dictados en la sección 1-A y 1-B
 
-C.	El solicitante podrá solicitar para leer este reglamento antes de   
+C.	El solicitante podrá solicitar leer este reglamento antes de   
 aceptar éste.
 
-D.	El solicitante pagará su cuota de ingreso para ser aceptado como   
-miembro y aceptará el reglamento de la AECC. Además, recibirá acceso a este reglamento y al itinerario de las actividades próximas de la AECC, de existir uno.
+D.	El solicitante pagará su cuota de ingreso ($5 por semestre o una   
+membresía anual del ACM) para ser aceptado como   
+miembro,aceptará el reglamento de la AECC, reglas de la oficina de la AECC y del Chat Oficial de la AECC . Además, recibirá este reglamento, beneficios de la oficina y tendrá acceso al itinerario de las actividades próximas de la AECC, de existir uno.
 
 **Sección 3\. Deberes de los miembros**
 
-A.	Velarán que todo miembro respete la Constitución y el Reglamento   
-de la AECC.
+A.	Velarán que todo miembro respete la Constitución, el Reglamento   
+de la AECC y las Reglas de la Oficina de la AECC.
 
 B.	Mantendrán al día sus cuotas, por lo tanto, al finalizar un semestre   
 no deberán adeudar a la AECC.
 
 C.	Participarán de al menos cincuenta porciento (50%) de las   
-actividades de la AECC anunciadas al principio de cada semestre, y cooperarán en la realización de éstas en todo lo posible, o sea, según lo permitan sus capacidades. 
+actividades realizadas por la AECC que serán anunciadas con por lo menos una semana de anticipación, y cooperarán en la realización de éstas en todo lo posible, o sea, según lo permitan sus capacidades. 
 
 D.	Serán éticos y respetuosos con sus compañeros y sus pertenencias.
 
@@ -57,7 +58,7 @@ beneficiarán de cualquier servicio especial que se les conceda para la activida
 
 C.	Tendrán voz y voto en todas las asambleas de la AECC que asistan.
 
-D.	Tendrán voz y voto en cualquier sondeo hecho por internet
+D.	Tendrán voz y voto en cualquier sondeo hecho por Internet.
 
 E.	Podrán vetar cualquier decisión tomada por la directiva; siempre y   
 cuando supere el cincuenta por ciento (50%) de miembros activos, más un miembro activo.  La directiva debe estar en acuerdo de que el veto tiene un planteamiento lógico y razonable para oponerse a su decisión. De no ser así, la directiva podrá traer el veto de la decisión al Consejero de la AECC, y este determinará si el veto pasa. 
@@ -69,7 +70,8 @@ miembros activos. Estos beneficios se detallarán durante la primera asamblea y 
 
 **Sección 5\. Miembros inactivos**
 
-A.	No obtendrán los beneficios de los miembros activos, tal estipulados en las secciones 4-B, 4-C, 4-D, 4-E, 4-F, 4-G
+A.	No obtendrán los beneficios de los miembros activos, tal estipulados   
+en las secciones 4-B, 4-C, 4-D, 4-E, 4-F, 4-G
 
 B.	Serán aquellos que no cumplieron con participar en la mitad (50%)   
 de las actividades anunciadas al principio de cada semestre.
@@ -77,9 +79,7 @@ de las actividades anunciadas al principio de cada semestre.
 C.	Serán aquellos que así lo soliciten por no poder cumplir con los   
 deberes de los miembros activos.
 
-D.	Serán aquellos que no han pagado su cuota. Serán aquellos que la   
-directiva o cuarenta por ciento (50%) de los miembros activos, más un miembro activo, así lo decidan.
-
+D.	Serán aquellos que no han pagado su cuota.   
 E.	Serán aquellos que la directiva o cuarenta por ciento (50%) de los   
 miembros activos, más un miembro activo, así lo decidan.
 
@@ -100,7 +100,7 @@ cincuenta por ciento (50%) de los miembros activos, más un miembro activo, lo d
 **Artículo II \- Directiva**
 
 **Sección 1\.**	La directiva constará de un/a Presidente/a, Vicepresidente/a,   
-Secretario/a, Tesorero/a, Relacionista Pública, y dos Vocales.
+Secretario/a, Tesorero/a, Relacionista Pública, y tres Vocales.
 
 **Sección 2\.**	Todos los miembros que constituyen la directiva tendrán voz y voto   
 en las reuniones de la directiva y en las asambleas.
@@ -117,8 +117,7 @@ directiva, exceptuando al Presidente, la directiva tendrá la obligación de ele
 **Sección 6\.**	En caso de una ausencia permanente de cualquier miembro de la   
 directiva, exceptuando al Presidente, la directiva tendrá la obligación de elegir un miembro activo que cumpla con los requisitos para cubrir la posición hasta que se concrete una elección oficial.
 
-**Sección 7\.	Presidente/a**
-
+**Sección 7\.	Presidente**  
 A.	Citará y presidirá las asambleas de la AECC.
 
 B.	Citará y presidirá las reuniones de la directiva de la AECC.
@@ -161,7 +160,7 @@ AECC junto al Presidente.
 D.	Como requisito tiene que pertenecer a Departamento de   
 Ciencia de Cómputos.
 
-**Sección 9\.	Tesorero**
+**Sección 9\.	Tesorero/a**
 
 A.	Recaudará los fondos de la AECC y formará parte de   
 cualquier comité encargado de generar fondos.
@@ -175,10 +174,10 @@ AECC.
 D.	Rendirá un informe semestral del estado financiero de la   
 AECC.
 
-E.	Publicará de forma adecuada un resumen del estado   
+E.Publicará de forma adecuada un resumen del estado   
 financiero al menos cada dos (2) meses.
 
-**Sección 10\. Secretario**
+**Sección 10\. Secretario/a**
 
 A.	Llevará actas de todas las reuniones de la directiva de la   
 AECC y de las asambleas de estudiantes de la AECC. Copias de estas actas estarán disponibles para cualquier miembro de la AECC.
@@ -219,7 +218,7 @@ problemas, etc. que pueda estar ocurriendo dentro y/o fuera de la AECC.
 C.	Ayudará a la organización y manejo de las actividades y   
 comités de la AECC. Por tanto, son ex-oficios de los comités establecidos de la AECC.
 
-**Sección 13\. Consejero**
+**Sección 13\. Consejero/a**
 
 A.	Orientará y asesorará en las reuniones y asambleas de la   
 AECC que sea solicitado.
@@ -240,14 +239,21 @@ C.	La directiva nombrará al Coordinador del comité.
 D.	Rendirán un informe en cada reunión de la directiva sobre el   
 funcionamiento y participación de sus miembros.
 
-F. 	Habrá un comité permanente de Tesorería y Utilidad (CTU);   
-con un mínimo de dos (2) miembros.
+F. 	Podrán traer propuestas para comités sobre temas   
+relacionados de alguna manera a Ciencia de Cómputos o el   
+bienestar de la comunidad universitaria. Estará a la   
+disposición de la directiva aprobar la creación e incorporación   
+del comité a la AECC.
 
 G.	Habrá un comité permanente de Información y Admisión    
 (CIA) con un mínimo de dos (2) miembros.
 
-H.	Habrá un comité permanente de Promoción y Relaciones   
-(CPR) con un mínimo de dos (2) miembros.
+H.	Para continuar siendo un comité activo tendrán: 
+
+1. Reuniones o actividades constantes a través del año escolar.  
+2. Reunirse con la Directiva mensualmente e informar el progreso del comité.
+
+   Tomar asistencia en todas sus reuniones y actividades y hacérsela llegar al Secretario/a de la Directiva. 
 
 **Artículo III \- Nominaciones**
 
@@ -262,12 +268,13 @@ nominación.
 
 **Artículo IV \- Elecciones**
 
-**Sección 1\.**		Las nominaciones serán en la última semana de abril.
+**Sección 1\.**		Las nominaciones serán mínimo un mes antes del último día   
+de clases según el Calendario Escolar de la UPRRP..
 
 **Sección 2\.**		Las elecciones serán una semana después.
 
-**Sección 3\.**		Los resultados de las elecciones se anunciarán por la  
-tarde del día siguiente del último día de votaciones.
+**Sección 3\.**		Los resultados de las elecciones se anunciarán a más tardar   
+por la tarde del día siguiente del último día de votaciones.
 
 **Sección 4\.**	La directiva nueva tomará posesión en la última reunión del segundo semestre.
 
@@ -275,13 +282,10 @@ tarde del día siguiente del último día de votaciones.
 AECC.
 
 **Sección 6\.**		Las elecciones se efectuarán a través de la página de  
-Internet de la AECC.
+Internet de la AECC o en una asamblea presencial.
 
 **Sección 7\.**		Todos los puestos de la directiva se elegirán por mayoría  
 simple.
-
-**Sección 8\.**		Se les aplicará la misma reglamentación que a una  
-asamblea.
 
 **Artículo V \- Asamblea**
 
@@ -364,4 +368,5 @@ B.	27 de agosto de 2004
 C.	25 de enero de 2012
 
 D.	30 de julio de 2013
+
 
