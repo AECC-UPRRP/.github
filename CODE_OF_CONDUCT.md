@@ -1,54 +1,53 @@
 # Código de conducta para miembres de la AECC
 
-
 ## Reglas De Oficina De la AECC
 
 ### Oficina
 
-1. La oficina cuenta con un horario regular de 10 am a 4 pm.
-2. En todo momento debe haber un miembro de la Directiva o del Comité de Llaves dentro de la oficina. De no haber alguno, deberá ser cerrada.
-3. No se permitirá el consumo de alimentos de ningún tipo dentro de la oficina.
-4. Se mantendrá libre un camino por el centro de la oficina para evitar impedir la entrada y salida de la misma.
-5. Los bultos se colocaran en el anaquel provisto, de este estar lleno se colocarán debajo de mesas sin incomodar a otros compañeros.
-6. De encontrarse llena la oficina, miembros que no estén ocupados con asuntos académicos le cederán su espacio a aquellos que los necesiten para asuntos académicos.
-7. Se mantendrá un volumen controlado dentro de la oficina y en el pasillo de la misma.
-8. Todos los dispositivos electrónicos con excepción de teléfonos celulares deberán estar en modo silencio. De necesitar audio, deber utilizar audífonos.
-9. Todos los miembros son responsables de mantener la oficina y sus facilidades limpias en todo momento.
-10. No se permite utilizar el servicio de internet de la oficina para los juegos de video ni el _streaming_ de videos no académicos dentro en el horario regular.
-11. No se permite fumar/vaping dentro de la oficina o en el pasillo de la misma.
-12. El privilegio de uso de las facultades de la AECC no es transferible, es para el uso exclusivo de sus miebros.
-13. Los miembros se limitarán a utilizar solo una silla en todo momento; bultos, mochilas, loncheras y otras pertenencias se mantendrán en el área provista y los pies se mantendrán fuera de las sillas.
-14. En cualquier momento un miembro de la directiva tiene la capacidad de convocar una reunión oficial, donde solo los miembros de la directiva y miembros autorizados podrán estar presentes dentro de la oficina.
-15. Durante las actividades o talleres ofrecidos o auspiciados por la AECC se cerrará y ningún miembro podrá entrar o solicitar servicios hasta el final de dicha actividad.
+1. La oficina cuenta con un horario regular mostrado en la puerta. Este horario está sujeto a cambio cada semestre.
+2. En todo momento debe haber un miembro de la Directiva dentro de la oficina. De no haber alguno, deberá ser cerrada.
+3. Se mantendrá libre un camino por el centro de la oficina para evitar impedir la entrada y salida de la misma.
+4. Los bultos se colocarán en el anaquel provisto o debajo de la mesa, sin incomodar a otros compañeros. Bultos que no estén en un espacio adecuado serán movidos al área común de las oficinas.
+5. Al momento de la oficina ser cerrada, todas las pertenencias de otros miembros serán sacadas al área común de las oficinas para evitar que las mismas se queden encerradas.
+6. Cada miembro es responsable de sus pertenencias.
+7. De encontrarse llena la oficina, miembros que no estén ocupados con asuntos académicos le cederán su espacio a aquellos que los necesiten para asuntos académicos.
+8. Se mantendrá un volumen controlado con el propósito de propiciar un ambiente cómodo de estudio, dentro de la oficina y en el pasillo de la misma.
+9. De estar llena la oficina, se limitará el uso de las sillas a una por persona.
+10. De haber afectado algún equipo, el miembro es responsable de asumir el costo de reparación o reemplazo.
 
-### Pizarra
+### Servicios
 
-16. Los marcadores provistos por la AECC son exclusivamente para uso académico.
-17. Miembros que utilicen la pizarra serán responsables de limpiarla una vez terminen.
 
-### Microondas
+#### Pizarra
 
-18. Aquellos miembros que deseen calentar comida pueden utilizar el microondas de la AECC, este privilegio no es transferible.
-19. Es responsabilidad de los miembros limpiar el microondas después de usarlo.
+11. Todo asunto académico toma prioridad en cuanto al uso de la pizarra.
+12. Al cerrar la oficina al final del día, la pizarra puede ser borrada.
 
-### Nevera
+#### Comida
 
-20. Los miembros de la AECC pueden guardar comidas y bebidas en la nevera de la AECC.
-21. Al momento de guardar deberán identificar sus pertenencias con su nombre y fecha del día.
-22. Alimentos no reclamados en o antes del final de la semana seran echados de la oficina, incluyendo el envase.
+13. Es responsabilidad de los miembros limpiar el microondas después de usarlo.
+14. Los miembros deberán identificar sus alimentos con su nombre al guardarlos en la nevera. Alimentos no identificados serán botados al final día.
+15. Alimentos identificados serán botados al final de la semana.
+16. Los miembros deberán limpiar la cafetera antes y después de cada uso.
+17. Los miembros que consuman alimentos dentro de la oficina serán responsables de mantener el área limpia.
 
-### Utensilios
+#### Utensilios
 
-23. Todos los miembros de la AECC pueden utilizar los utensilios de la oficina i.e. tazas, platos, y cubiertos.
-24. Utensilios rotos o perdidos serán reemplazados por el miembro responsable de su pérdida.
-25. Las tazas deben ser limpiadas con agua y jabón despuésde cada uso.
+18. Todos los miembros de la AECC pueden utilizar los utensilios de la oficina.
+19. Utensilios rotos o perdidos serán reemplazados por el miembro responsable de su pérdida.
+20. Las tazas deben ser limpiadas con agua y jabón después de cada uso.
 
-### Impresora
+#### Impresora
 
-26. Los miembros de la AECC podrán utilizar el servicio de impresora libre de costo para cualquier documento de hasta siete páginas. Para páginas adicionales, tendrán un costo de ¢5 por página. Este privilegio no es transferible.
+21. Los miembros de la AECC podrán utilizar el servicio de impresora libre de costo para cualquier documento.
+
+#### Compras
+
+22. Cualquier compra será gestionada por un miembro de la directiva presente.
+23. No se aceptarán pagos adelantados ni fiar.
 
 ### Nota Final
 
-27. Cualquier incumpliento de las reglas de este documento por parte de algún miembro de la AECC conlleva acciones disciplinarias, desde revocación temporera de privilegios, hasta anulación de la membresía de la AECC.
-28. Estas reglas son sujetas a cambios durante las reuniones de directiva, los miembros serán notificados a la mayor brevedad posible y el documento enmendade será puesto en la puerta de la oficina.
-
+24. En el caso de incumplimiento de alguna regla, referirse a la sección de infracciones y repercusiones del Reglamento de la AECC. (Pendiente a ser escrito)
+25. Estas reglas son sujetas a cambios durante las reuniones de directiva, los miembros serán notificados a la mayor brevedad posible y el documento enmendado será puesto en el boletín de anuncios de la oficina.
+26. La directiva tiene el derecho de determinar si cualquier uso de los servicios de la oficina es en abuso.
